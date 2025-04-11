@@ -43,7 +43,7 @@ public class Main {
 //• Total Interest Earned = FV - P
         //OUTPUT
         System.out.printf("Futur Amount $%.2f\n", futurAmount );
-        System.out.printf("Total Interest Earned = $%.2f", totalInterstRate );
+        System.out.printf("Total Interest Earned = $%.2f.", totalInterstRate );
 
         }
 }
