@@ -42,7 +42,7 @@ public class Main {
 //• Total Number of Days: This is 365 × t (because there are 365 days per year).
 //• Total Interest Earned = FV - P
         //OUTPUT
-        System.out.printf("Futur Amount $%.2f\n", futurAmount );
+        System.out.printf("Futur Amount is $%.2f\n", futurAmount );
         System.out.printf("Total Interest Earned = $%.2f.", totalInterstRate );
 
         }
